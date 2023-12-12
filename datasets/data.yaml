@@ -1,0 +1,8 @@
+names:
+- apple
+- banana
+- orange
+nc: 3
+test: data/fruits/test/images
+train: data/fruits/test/images
+val: data/fruits/valid/images
